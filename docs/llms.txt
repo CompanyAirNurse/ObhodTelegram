@@ -1,19 +1,10 @@
 # ObhodTelegram
 
-> Новая версия с поддержкой работы Telegram. Стабильнее, быстрее, надежнее
+Новая версия с поддержкой работы Telegram. Стабильнее, быстрее, надежнее
 
-ObhodTelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+ObhodTelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-## Страницы
-- Сайт: https://companyairnurse.github.io/ObhodTelegram/
-- Релиз: https://github.com/CompanyAirNurse/ObhodTelegram/releases/latest
-- Исходный код: https://github.com/CompanyAirNurse/ObhodTelegram
-- Движок: https://github.com/bol-van/zapret
-
-## Запросы
-- обход блокировки Telegram
-- Telegram не отправляет фото
-- Telegram звонки не работают
-- zapret Telegram
-
-Windows 10/11, без VPN, бесплатно.
+Релиз: https://github.com/companyairnurse/ObhodTelegram/releases/latest
+Код: https://github.com/companyairnurse/ObhodTelegram
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/companyairnurse/ObhodTelegram
